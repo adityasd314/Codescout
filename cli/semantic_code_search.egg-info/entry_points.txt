@@ -1,0 +1,2 @@
+[console_scripts]
+sem = semantic_code_search.cli:main
