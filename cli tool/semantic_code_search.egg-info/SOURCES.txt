@@ -15,6 +15,7 @@ src/semantic_code_search/clustering_inverted.py
 src/semantic_code_search/clustering_kd.py
 src/semantic_code_search/clustering_suffix.py
 src/semantic_code_search/embed.py
+src/semantic_code_search/indexing.py
 src/semantic_code_search/kd_tree.py
 src/semantic_code_search/min_heap.py
 src/semantic_code_search/prompt.py
