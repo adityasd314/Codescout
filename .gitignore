@@ -1,0 +1,10 @@
+*.embeddings
+/repositories
+/flask_backend/repositories
+/flask_backend/vector_store
+*/__pycache__
+*.pyc
+*/env
+*/venv
+*.env
+*vector_store
