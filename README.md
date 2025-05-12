@@ -99,14 +99,6 @@ sem --embed path-to-your-repo
 sem --cluster --cluster-max-distance .2
 ```
 
-### VS Code Extension
-
-1. Install the extension from the VS Code marketplace
-2. Configure the extension with your CodeScout server URL
-3. Use the command palette (`Ctrl+Shift+P`) and type "CodeScout: Search"
-4. Enter your natural language query
-5. Browse results directly in your editor
-
 ## Technology Stack
 
 - **Backend**: Python, Flask, ChromaDB
@@ -141,15 +133,3 @@ We welcome contributions to CodeScout! Please see our [Contributing Guide](CONTR
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- COEP Technological University, Computer Department
-- Mrs. Seema Chavan (Project Guide)
-- All contributors and testers who have helped shape this project
-
-## Team
-
-- Aditya Deshmukh (612203036)
-- Saurabh Deulkar (612203038)
-- Avadhoot Ghewade (612203057)
