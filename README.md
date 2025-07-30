@@ -5,7 +5,7 @@
 CodeScout is a semantic code search tool that allows developers to find relevant code snippets using natural language queries. Unlike traditional keyword-based search tools, CodeScout leverages Natural Language Processing (NLP) and vector embeddings to understand the semantic meaning behind code, enabling more intuitive and effective code discovery.
 
 ## Architecture Diagram
-[Architecture](diagrams/flowchart.png)
+![Architecture](diagrams/flowchart.png)
 
 ## Problem Statement
 
